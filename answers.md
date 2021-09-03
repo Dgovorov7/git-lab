@@ -64,6 +64,20 @@ nothing to commit, working tree clean
 
 Answer 10
 
+README.md does not reflect the changes made on github.com
+
+Answer 11
+
+Outputs an error saying the remote contains files that the computer does not have
+
+Answer 12
+
+After inputing git pull the changes were reflected in the addition of CS2400 - 112 in README.md
+
+Answer 13
+
+.  ..  .git  .gitignore  README.md
+
 
 
 
